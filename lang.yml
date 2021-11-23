@@ -112,3 +112,27 @@ SKYWARS_UNKNOWN_KILLER_TOP_FORMAT: '§7Не найдено'
 
 SKYWARS_LOBBY_SCOREBOARD: 
 - 'SOON'
+
+BUNGEE_ALERT: '§6Vongex Network §8| §f %alertmessage%'
+BUNGEE_REPORT: '§6Vongex Network §8| §fИспользуйте команду: §e/report [ник] [причина]'
+BUNGEE_REPORT_SEND: '§6Vongex Network §8| §aВаш репорт отправлен на рассмотрение модерации. Ожидайте:)'
+BUNGEE_REPORT_ACCEPT: '§6Vongex Network §8| §aВаш репорт принят и проверяется администрацией.'
+BUNGEE_STAFFCHAT: '§eПерсонал §8| %group% %player% %msg%'
+BUNGEE_CHAT_BUY_GROUP: '§fНовое приобритение: §fИгрок %prefix% %player% §fприобрел привилегию %donate%'
+BUNGEE_LOBBY_NO_EXISTS: '§6Vongex Network §8| §fЛобби в которое вы пытаетесь присоединиться, не найдено...'
+BUNGEE_LOBBY_AVAIBLE: '§6Vongex Network §8| §fВы уже находитесь в этом лобби.'
+BUNGEE_WHERE: '§6Vongex Network §8| §fИгрок %prefix% %player% находится на сервере {WHERE_SERV}'
+BUNGEE_PING_YOUR: '§6Vongex Network §8| §fТвой пинг на сервере: §a%ping%'
+BUNGEE_PING_OTHER_PLAYERS: '§6Vongex Network §8| §fПинг игрока %player%: §a%ping%'
+BUNGEE_FAKE_ONLINE: '§6Vongex Network §8| §fИспользуйте команду: §e/fakeonline [true or false]'
+BUNGEE_FAKE_ONLINE_TRUE: '§6Vongex Network §8| §fФейковый онлайн был выставлен на: §a%fakeonline_count%'
+BUNGEE_FAKE_ONLINE_FALSE: '§6Vongex Network §8| §fФейковый онлайн был выставлен на: §a%realistic_count%'
+BUNGEE_LIST_SERVERS_AND_PLAYERS: '§6Vongex Network §8| §fОбщий онлайн игроков составляет: §a%count%'
+BUNGEE_SERVERS_LIST: '§6Vongex Servers §8| §fДоступные сервера Bungee: %true_servers%'
+BUNGEE_GETPLAYER_IP: '§6Vongex GetIp §8| §fАйпи-Адрес игрока %p% &7- §a%p_ip%'
+BUNGEE_GETPLAYER_IP_INFO: '§6Vongex GetIp §8| §fИнформацию о айпи игрока, можно посмотреть на %info_2ip.ru%'
+
+CORE_CONNECTOR_NO_CONNECT: '§cОшибка подключения: Сервер не подключен к core'
+CORE_CONNECTOR_CONNECT: '%join_acces%' #Using JoinAcces.js'
+
+IP_NO_WORK: '§cМы переехали на новый IP §7- %kambet_newip%'
