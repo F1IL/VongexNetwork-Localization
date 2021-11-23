@@ -1,0 +1,16 @@
+NoPermission: '§6Vongex Network §8| §cК сожалению, у вас недостаточно прав для выполнения данной команды!'
+NotPlayer: '§6Vongex Network §8| &cВы не являетесь игроком!'
+Offline: '§6Vongex Network §8| §cУказанный вами игрок не находится онлайн!'
+
+CREATIVE_MODE_ON: '§6Vongex Network §8| §fВаш игровой режим был изменен на: §aCREATIVE'
+SURVIVAL_MODE_ON: '§6Vongex Network §8| §fВаш игровой режим был изменен на: §aSURVIVAL'
+ADVENTURE_MODE_ON: '§6Vongex Network §8| §fВаш игровой режим был изменен на: §aADVENTURE'
+SPECTATOR_MODE_ON: '§6V6Vongex Network §8| §fВаш игровой режим был изменен на: §aSPECTATOR'
+
+FLIGHT_ENABLE: '§6Vongex Network §8| §fВаш режим полета изменен на: §aВКЛ'
+FLIGHT_DISABLING: '§6Vongex Network §8| §fВаш режим полета изменен на: §aВЫКЛ'
+
+PLAYERS_CRASHED: '§6Vongex Network §8| §fИспозуйте команду: §e/crash <player>'
+PLAYERS_CRASHED_NO_PERM: '§6Vongex Network §8| §cУ тебя недостаточно прав, чтобы выполнить эту команду!'
+PLAYERS_CRASHED_SUCCES: '§6Vongex Network §8| §fИгрок %prefix% %player% был крашнут магическим образом:)'
+PLAYERS_CRASHED_FAIL: '§6Vongex Network §8| §cНевозможно крашнуть игрока %prefix% %player%§c.'
