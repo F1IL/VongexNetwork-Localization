@@ -136,3 +136,30 @@ CORE_CONNECTOR_NO_CONNECT: '§cОшибка подключения: Сервер
 CORE_CONNECTOR_CONNECT: '%join_acces%' #Using JoinAcces.js'
 
 IP_NO_WORK: '§cМы переехали на новый IP §7- %kambet_newip%'
+
+BEDWARS_SCOREBOARD_GAME: '§e§lBEDWARS'
+                         '§e§lBEDWARS'
+                         '§f§lBEDWARS'
+                         'f§lBEDWARS'
+BEDWARS_SCOREBOARD_GAME_LINES: 
+                               '§7%vongexbw_date%'
+                               '§r'
+                               '§fИгроков на арене: %arena_players%'
+                               '§fВаша команда: %ravykbw_team%'
+                               '§fУбийств: %ravykbw_kills%'
+                               '§r'
+                               '§ewww.vongex.net'
+                               
+DEFAULT_BEDWARS_GAME_SCOREBOARD: '§e§lRAVYKBEDWARS'
+                                 '§e§lRAVYKBEDWARS'
+                                 '§f§lRAVYKBEDWARS'
+                                 '§f§lRAVYKBEDWARS'
+                                 
+DEFAULT_BEDWARS_SCOREBOARD_GAME_LINES: 
+                               '§7%vongexbw_date%'
+                               '§r'
+                               '§fИгроков на арене: %arena_players%'
+                               '§fВаша команда: %ravykbw_team%'
+                               '§fУбийств: %ravykbw_kills%'
+                               '§r'
+                               '§ewww.vongex.net'
