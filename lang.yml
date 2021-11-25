@@ -164,5 +164,7 @@ DEFAULT_BEDWARS_SCOREBOARD_GAME_LINES:
                                '§r'
                                '§ewww.vongex.net'
                                
-SKYWARS_RANKED_ELO_DOWN: '&6&lSkyWars &8| &fВаш рейтинг был понижен &f[&c-<elo>&f]'
-SKYWARS_RANKED_ELO_UP: '&6&lSkyWars &8| &fВаш рейтинг был повышен &f[&a+<elo>&f]'
+SKYWARS_RANKED_ELO_DOWN: '&6&lSkyWars &8| &fВаш рейтинг был понижен &f[&c-%ravyksw_elo_down%&f]'
+SKYWARS_RANKED_ELO_UP: '&6&lSkyWars &8| &fВаш рейтинг был повышен &f[&a+%ravyksw_elo_up%&f]'
+SKYWARS_RANKED_KILLS_ELO: '&6&lSkyWars &8| &fВаш рейтинг был повышен с &a%ravyk_elo_start% &fдо &f[&8-%ravyksw_killselo%'
+SKYWARS_RANKED_KILLS_ELO: '&6&lSkyWars &8| &fВаш рейтинг был понижен с &a%ravyk_elo_start% &fдо &f[&8-%ravyksw_killselo%'
