@@ -163,3 +163,6 @@ DEFAULT_BEDWARS_SCOREBOARD_GAME_LINES:
                                '§fУбийств: %ravykbw_kills%'
                                '§r'
                                '§ewww.vongex.net'
+                               
+SKYWARS_RANKED_ELO_DOWN: '&6&lSkyWars &8| &fВаш рейтинг был понижен &f[&c-<elo>&f]'
+SKYWARS_RANKED_ELO_UP: '&6&lSkyWars &8| &fВаш рейтинг был повышен &f[&a+<elo>&f]'
